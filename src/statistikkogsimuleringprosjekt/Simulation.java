@@ -5,7 +5,7 @@ package statistikkogsimuleringprosjekt;
  *
  * @author olemartintvad
  */
-public class Simulasjon {
+public class Simulation {
 
     /**
      * @param args the command line arguments
